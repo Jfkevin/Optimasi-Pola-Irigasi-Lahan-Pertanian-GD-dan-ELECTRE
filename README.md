@@ -50,6 +50,7 @@ Proyek ini dibuat menggunakan **Python (NumPy, Pandas, Matplotlib)**.
 - Lakukan iterasi pembaruan bobot hingga konvergensi tercapai.  
 
 > **Output:** Bobot optimal setiap kriteria (contoh hasil)
+> 
 | Kriteria | Bobot Optimal |
 |-----------|---------------|
 | Topografi | 0.1658 |
